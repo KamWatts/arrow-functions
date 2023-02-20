@@ -57,8 +57,8 @@ const add = function(num1, num2) {
 // We can only remove the parentheses when there is a single parameter
 const addOneLiner = (num1, num2) => `${num1} + ${num2} = ${num1 + num2}`;
 
-// TODO: Uncomment the following line of code to see the output in the browser console
-// console.log('Add as a one-liner:', addOneLiner(4, 5));
+// DONE: Uncomment the following line of code to see the output in the browser console
+ console.log('Add as a one-liner:', addOneLiner(4, 5));
 
 
 // STEP 7
